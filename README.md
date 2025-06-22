@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="./Public/Main.png" alt="Main" style="border-radius: 10px;"/>
+  <img src="./public/Main.png" alt="Main" style="border-radius: 10px;"/>
 </div>
 
 <br/>
