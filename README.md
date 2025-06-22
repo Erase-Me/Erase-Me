@@ -10,7 +10,7 @@
 
 ## 사용법
 1. 코드 실행
-```
+``` Python
 git clone https://github.com/Erase-Me/Erase-Me.git
 cd Erase-Me/
 python3 -m venv venv && . venv/bin/activate
