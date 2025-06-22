@@ -10,13 +10,13 @@
 
 ## 사용법
 1. 코드 실행
-'''
+```
 git clone https://github.com/Erase-Me/Erase-Me.git
 cd Erase-Me/
 python3 -m venv venv && . venv/bin/activate
 pip install -r requirements.txt
 python main.py
-'''
+```
 
 2. 실행 프로그램 다운로드
 - 우측 `release` 탭에서 다운로드 가능합니다.
